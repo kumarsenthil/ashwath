@@ -1,6 +1,6 @@
 Bheema is a theme suitabel for image heavy journal kind of websites. 
 
-Demo: [http://webjeda.com/ashwath/](http://webjeda.com/ashwath/)
+Demo: [http://www.techpointcloud.com](http://www.techpointcloud.com)
 
 
 ## Installation
